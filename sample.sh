@@ -1,0 +1,1 @@
+curl -v -X POST -H 'Content-Type: application/json' -d @sample.json 'http://localhost:8000/api/HttpTrigger' | jq -r '.out'

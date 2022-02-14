@@ -1,0 +1,7 @@
+{
+    "cmd": [
+        "traceroute",
+        "-4",
+        "bing.com"
+    ]
+}
